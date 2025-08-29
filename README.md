@@ -1,3 +1,17 @@
+## Nex-AC (Revolution Multiplayer Mod)
+**PEMBERITAHUAN: INI ADALAH REPOSITORI HASIL MODIFIKASI**
+
+Versi `Nex-AC` ini adalah hasil *fork* dari repositori asli milik [NexiusTailer/Nex-AC](https://github.com/NexiusTailer/Nex-AC). Modifikasi ini dikelola oleh tim **Revolution Multiplayer** untuk menambahkan dukungan dan perbaikan fitur yang spesifik.
+
+### Keunggulan Versi Modifikasi Ini:
+
+* ✅ **Kompatibilitas Penuh dengan pawn-lang/samp-stdlib**
+Include ini telah disesuaikan agar berfungsi penuh dengan `pawn-lang/samp-stdlib` versi terbaru, memastikan tidak ada konflik dependensi.
+* ✅ **Perbaikan Warning Kompilasi**
+Memperbaiki berbagai warning yang muncul saat kompilasi `warning 234: literal array/string passed to a non-const parameter`, sehingga proses build menjadi lebih bersih dan modern.
+
+-----
+
 # [Nex-AC - Anticheat system](https://pawn.wiki/index.php?/topic/27641-nex-ac/)
 
 Nex Anticheat (Nex-AC) - is a comprehensive protection which combines powerful anticheat and protection against various attacks (flood, DoS).  
